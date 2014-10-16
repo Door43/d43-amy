@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amy:home|Door43 (amy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amy|d43-amy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amy/archive/master.zip|d43-amy.zip]]
+
+**Recent Changes**
+{{changes>ns = amy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amy|Ethnologue data]]
+
